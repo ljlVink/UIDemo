@@ -1,3 +1,4 @@
+吧这个码玩明白，学校pad就破了
 
 ![mahua](https://github.com/yangyong915/WaterDemo/blob/master/GIF.gif)
 
